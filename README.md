@@ -4,27 +4,29 @@ You can use the [editor on GitHub](https://github.com/OurPakistan/MyWebPage/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My Pakistan
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#Assalam-o-alaikum
+## Welcome
+### My First Page
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+**OUR PAKISTAN** and _Is The Blessings Of Allah_ and `Code` text
+<body>
+	<video src=".\picz\mamu videos\abc.mp4"  width="200" controls > 
+	<vidcaption>Way From Naran To Lake SAIF-UL-MALUK</vidcaptin>
+					
+	</video>
+	
+</body>```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
